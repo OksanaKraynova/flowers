@@ -1,0 +1,1625 @@
+<!DOCTYPE html>
+<html lang="ru">
+<!-- Vigbo-cms -->
+<!-- //static-cdn4.vigbo.tech/u19344/24275/ casey -->
+<head>
+    <script>
+        var _createCookie = function (name, value, days) {
+            var expires = "";
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime() + (days * 86400000));
+                expires = "; expires=" + date.toGMTString();
+            }
+            document.cookie = name + "=" + value + expires + "; path=/";
+        }
+
+        function getCookie(name) {
+            var matches = document.cookie.match(new RegExp(
+                    "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+            ));
+            return matches ? decodeURIComponent(matches[1]) : undefined;
+        }
+
+        if(getCookie('_gphw_mode')=='bot'){ // бот сюда не зайдет
+            _createCookie('_gphw_mode', 'humen', 0);
+        }
+    </script>
+    <meta charset="utf-8">
+<title>Композиция из сухоцветов СПБ</title>
+<meta name="keywords" content="сухоцветы, сухоцветы спб, композиция из сухоцветов спб, сухие цветы спб, цветочная композиция спб" />
+<meta name="description" content="Прекрасная цветочная композиция для Вашего дома их сухоцветов СПБ" />
+    <meta property="og:title" content="Композиция из сухоцветов СПБ" />
+    <meta property="og:description" content="Прекрасная цветочная композиция для Вашего дома их сухоцветов СПБ" />
+    <meta property="og:url" content="https://www.maryglow.ru/zakazat_buket/korobochka-iz-suhotsvetov-1-2-1-1" />
+    <meta property="og:type" content="website" />
+        <meta property="og:image" content="//shop-cdn1.vigbo.tech/shops/25709/products/20360051/images/3-4f1781edd44180f044d0f5a3a5071556.jpg" />
+        <meta property="og:image" content="//shop-cdn1.vigbo.tech/shops/25709/products/20360051/images/3-26892f00e0b7d6d86a1272eef3f995ce.jpg" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+	<link rel="shortcut icon" href="//static-cdn4.vigbo.tech/u19344/24275/favicon.ico" type="image/x-icon" />
+
+<!-- Blog RSS -->
+
+<!-- Preset CSS -->
+    <script>window.use_preset = false;</script>
+
+<script>
+    window.cdn_paths = {};
+    window.cdn_paths.modules = 'https://static-cdn0-1.vigbo.tech/build/kevin2/site/' + 'dev/scripts/site/';
+    window.cdn_paths.site_scripts = 'https://static-cdn0-1.vigbo.tech/build/kevin2/site/' + 'dev/scripts/';
+</script>
+    <link href="https://fonts.googleapis.com/css?family=Abel|Alegreya:400,400i,700,700i,800,800i,900,900i|Alex+Brush|Andika|Anonymous+Pro:400i,700i|Anton|Arimo:400,400i,700,700i|Arsenal:400,400i,700,700i|Asap:400,400i,500,500i,600,600i,700,700i|Bad+Script|Baumans|Bitter:100,100i,200,200i,300,300i,400i,500,500i,600,600i,700i,800,800i,900,900i|Comfortaa:300,400,500,600,700|Cormorant:300i,400i,500,500i,600,600i,700i|Cormorant+Garamond:300i,400i,500,500i,600,600i,700i|Cormorant+Infant:300i,400i,500,500i,600,600i,700i|Cousine:400,400i,700,700i|Crafty+Girls|Cuprum:400,400i,700,700i|Days+One|Delius+Unicase:400,700|Didact+Gothic|Dosis|EB+Garamond:400i,500,500i,600,600i,700i,800,800i|Euphoria+Script|Exo|Exo+2:100,100i,200,200i,300i,400i,500,500i,600,600i,700i,800,800i,900,900i|Federo|Fira+Code:300,500,600|Fira+Sans:100,100i,200,200i,300i,400i,500,500i,600,600i,700i,800,800i,900,900i|Fira+Sans+Condensed:100,100i,200,200i,300i,400i,500,500i,600,600i,700i,800,800i,900,900i|Forum|Glegoo:400,700|Gudea:400,400i,700|Handlee|IBM+Plex+Mono:100,100i,200,200i,300i,400i,500,500i,600,600i,700i|IBM+Plex+Sans:100,100i,200,200i,300i,400i,500,500i,600,600i,700i|IBM+Plex+Serif:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i|Inter:100,200,300,400,500,600,700,800,900|Istok+Web:400,400i,700,700i|JetBrains+Mono:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i|Jost:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Jura:400,300,500,600,700|Kelly+Slab|Kranky|Krona+One|Leckerli+One|Ledger|Lobster|Lora:400,400i,700,700i,500,500i,600,600i|Manrope:200,300,400,500,600,700,800|Marck+Script|Marko+One|Marmelad|Merienda+One|Merriweather:300i,400i,700i,900,900i|Montserrat:300i,400i,500,500i,600,600i,700i,800,800i,900,900i|Montserrat+Alternates:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Neucha|Noticia+Text:400,400i,700,700i|Noto+Sans:400,400i,700,700i|Noto+Serif:400,400i,700,700i|Nova+Flat|Nova+Oval|Nova+Round|Nova+Slim|Nunito:400,200,200i,300,300i,400i,600,600i,700,700i,800,800i,900,900i|Old+Standard+TT:400i|Open+Sans:300i,400i,600,600i,700i,800,800i|Open+Sans+Condensed:300,300i,700|Oranienbaum|Original+Surfer|Oswald:200,500,600|Oxygen:300|Pacifico|Philosopher:400,400i,700,700i|Play:400,700|Playfair+Display:400,700,400i,500,500i,600,600i,700i,800,800i,900,900i|Playfair+Display+SC|Poiret+One|Press+Start+2P|Prosto+One|PT+Mono|PT+Sans:400i,700i|PT+Sans+Caption:400,700|PT+Sans+Narrow:400,700|PT+Serif:400i,700i|PT+Serif+Caption:400,400i|Quicksand|Raleway:100,100i,300i,400i,500,500i,600,600i,700i,800,800i,900,900i|Roboto:100,100i,300i,400i,500,500i,700i,900,900i|Roboto+Condensed:300i,400i,700i|Roboto+Mono:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i|Roboto+Slab:100,200,500,600,800,900|Rochester|Rokkitt:400,100,300,500,600,700,800,900|Rubik:300i,400i,500,500i,600,600i,700i,800,800i,900,900i|Ruslan+Display|Russo+One|Salsa|Satisfy|Scada:400,400i,700,700i|Snippet|Sofia|Source+Code+Pro:200,300,400,500,600,700,900|Source+Sans+Pro:200,300,400,600,700,900|Source+Serif+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i|Spectral:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i|Stint+Ultra+Expanded|Syncopate|Tenor+Sans|Tinos:400,400i,700,700i|Trochut|Ubuntu:300i,400i,500,500i,700i|Ubuntu+Condensed|Ubuntu+Mono:400,400i,700,700i|Underdog|Unkempt:400,700|Voces|Yeseva+One&display=swap&subset=cyrillic" rel="stylesheet">    <!-- CORE CSS -->
+            <link rel="stylesheet" type="text/css" href="//shop-cdn0.vigbo.tech/vigbo-cms/styles/prod/build_shop_front.css?v=r6HAWJ">
+        <!-- SITE CSS -->
+    <link rel="stylesheet" type="text/css" href="https://static-cdn0-1.vigbo.tech/build/kevin2/site/prod/css/build_cms_front.css?v=r6HAWJ">
+    <!-- PREVIEW CSS -->
+        <link rel="stylesheet" type="text/css" href="https://www.maryglow.ru/css/custom-shop.css?v=13905.730" />
+            <!-- +React styles -->
+    <link rel="stylesheet" type="text/css" href="https://static-cdn0-1.vigbo.tech/build/kevin2/site/prod/css/main.chunk.css?ver=8BM27G"></link>
+    <!-- -React styles -->
+    
+    <!-- LIFE CHANGED CSS -->
+            <link rel="stylesheet" type="text/css" href="https://www.maryglow.ru/css/custom.css?v=13905.730" />
+    
+                        <style type="text/css">
+                .adaptive-desktop .logo-text a,
+                .adaptive-tablet .logo-text a{
+                    letter-spacing: 0em;
+                }
+            </style>
+            
+                    <!-- <script src="https://static-cdn0-1.vigbo.tech/build/kevin2/site/dev/scripts/vendor/jquery-1.9.1.min.js?v=8BM27G"></script> -->
+
+    
+        
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-FVTQRW5');</script>
+<!-- End Google Tag Manager -->
+<meta name="google-site-verification" content="H8y5K0R_2RTfy6yYvTEAXrAJSqBmPkrN-ehaOWclN80" />
+<iframe src="https://yandex.ru/sprav/widget/rating-badge/1691634757" width="150" height="50" frameborder="0"></iframe>
+<!-- Global site tag (gtag.js) - Google Ads: 853787331 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-853787331"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-853787331');
+</script>
+<script>
+  gtag('event', 'page_view', {
+    'send_to': 'AW-853787331',
+    'value': 'replace with value',
+    'items': [{
+      'id': 'replace with value',
+      'google_business_vertical': 'retail'
+    }]
+  });
+</script>
+    <style>
+    .adaptive-desktop .custom__content--max-width,
+    .adaptive-desktop .md-infoline__wrap {
+        max-width: 1650px;
+    }
+</style>
+    <script src="https://static-cdn0-1.vigbo.tech/build/kevin2/site/dev/scripts/vendor/jquery-3.3.1.min.js?ver=8BM27G"></script>
+
+    </head>
+
+
+	
+
+
+
+    <body data-template="casey" class="f__preset-box f__site f__2 loading locale_ru casey mod--search-enable mod--text-logo mod--header-static mod--menu-action-on-scroll mod--menu-load-on-scroll mod--menu-effect-from-top mod--menu-align-content mod--infoline-cross-enable protect-images desktop mod--shop-page adaptive-desktop mod--horizontal-menu mod--infoline-enable bot-version js--loading-cascade mod--font-none-preset layout-logo-top--icons-left-n-right   " data-preview="">
+
+    
+                        <!-- Инфополоса -->
+            <div id="md-infoline" class="md-infoline js--infoline  ">
+                    <div class="md-infoline__close" data-infoline-close>
+            <svg width="12px" height="12px" viewBox="0 0 12 12">
+                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g  transform="translate(-893.000000, -308.000000)" fill="currentColor" fill-rule="nonzero">
+                        <path d="M898.46967,313.46967 L899.53033,313.46967 L899,312.93934 L898.46967,313.46967 L897.93934,314 L893.46967,309.53033 C892.762563,308.823223 893.823223,307.762563 894.53033,308.46967 L899,312.93934 L903.46967,308.46967 C904.176777,307.762563 905.237437,308.823223 904.53033,309.53033 L900.06066,314 L904.53033,318.46967 C905.237437,319.176777 904.176777,320.237437 903.46967,319.53033 L899,315.06066 L894.53033,319.53033 C893.823223,320.237437 892.762563,319.176777 893.46967,318.46967 L897.93934,314 L898.46967,313.46967 Z M899.53033,313.46967 L899,312.93934 L898.46967,313.46967 L899.53033,313.46967 C899.237437,313.176777 898.762563,313.176777 898.46967,313.46967 L899.53033,313.46967 Z"></path>
+                    </g>
+                </g>
+            </svg>
+        </div>
+                <div class="md-infoline__cont f__3">
+            <div class="md-infoline__wrap custom__content--max-width">
+                                <div style="text-align: center;"><span style="font-size:12px;"><span style="font-family:geometria light;"><span style="letter-spacing:1px;"><span style="line-height:1.2;"><span style="color:#000000;">&nbsp;Позвонить <a href="tel:+79052093691">tel:+79052093691</a><br />
+Написать в WhatsApp&nbsp;<a href="http://wa.me/79052093691">http://wa.me/79052093691</a></span></span></span></span></span></div>                            </div>
+        </div>
+    
+</div>
+    <div class="md-infoline-assets">
+        <script>
+            let infolineTypeTpl = 'tech'; /* Миграция и смена дизайна*/
+			const infolineDBVersionTpl = "70";
+            let infoscripeStorage = localStorage.getItem('infostripe');
+            const infostripeData = JSON.parse(infoscripeStorage);
+			let infolineinfolineFirstJSTpl = false;
+
+            if(!infoscripeStorage || (infoscripeStorage && (infostripeData.version !== infolineDBVersionTpl))) {
+                infolineinfolineFirstJSTpl = true;
+                $('body').addClass('is--infoline-firstopen');
+            }
+        </script>
+        <script>
+			infolineTypeTpl = 'user'; /* Используется обычной полосой */
+			const infolineCrossSettingTpl = "true";
+        </script>
+<style>
+    .md-infoline__cont {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+    .md-infoline {
+        background: #c2bebe;
+    }
+.md-infoline__close svg path {
+        fill: #ffffff;
+    }
+/* Цвет крестика не используется после задачи MAIN-3592
+.md-infoline__close:hover svg path  {
+        fill: ;
+    }
+*/
+</style>
+        </div>
+
+                <div class="l-wrap js-wrap">
+
+    <header class="l-header l-header-main js-header-main layout-logo-top--icons-left-n-right  ">
+    <div class="l-header__wrapper custom__header-decorate-line custom__menu-bg-rgb custom__header-padding-y mod--show-menu-after-logo-load mod--effect-move-from-top">
+        <div class="l-header__cont custom__content--max-width">
+            <div class="l-header__row">
+                <div class="l-header__col0 l-header__col l-header__mobile--box"><!-- mobile menu -->
+                    <!-- basket icon for mobile -->
+                                            <div class="md-menu__icons mod--right md-menu__li-l1">
+                            <!-- Если есть поиск или корзина -->
+    <div class="l-header__icons--box f__menu">
+        &nbsp; <!-- для выравнивания по вертикали (дублирует размер шрифта) -->
+
+        <div class="l-header__icons--wrap">
+            <div class="js--iconBasketWrapper" >
+                 <!-- если не только Поиск и есть Магазин -->
+                    <!-- то выводим корзину -->
+                    <div class="js--iconBasketView shop_page l-header__icon l-header__icon--cart" >
+                        <a href='/zakazat_buket/cart' class='shop-basket--box lnk-cart design_editor-icons' data-id='shop-cart-widget'>
+                            <span class='shop-basket'>
+                                                                    <!-- Basket 02 -->
+                                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.5 17.5"><path class="basket-svg-style basket-svg-edit-round" d="M5,4.48V3.42A2.69,2.69,0,0,1,7.75.75h0a2.69,2.69,0,0,1,2.72,2.67V4.48"/><path class="basket-svg-style basket-svg-edit-round" d="M13.23,16.75h-11A1.51,1.51,0,0,1,.75,15.26s0,0,0-.07l1-10.7h12l1,10.7a1.5,1.5,0,0,1-1.45,1.56Z"/><path class="basket-svg-style basket-svg-edit-round" d="M10.47,7.68h0"/><path class="basket-svg-style basket-svg-edit-round" d="M5,7.68H5"/></svg>
+
+                                                            </span>
+                            <span class='shop-cart-widget-amount'>
+                                                            </span>
+                        </a>
+                    </div>
+                
+            </div>
+
+                            <div class="l-header__icon l-header__icon--search">
+                    <a class="searchform__svg js--open_searchform design_editor-icons">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.5 17.5"><ellipse class="search-svg-style" cx="5.92" cy="8.01" rx="5.17" ry="5.13"/><line class="search-svg-style" x1="9.59" y1="11.64" x2="14.75" y2="16.75"/></svg>
+                    </a>
+                </div>
+                    </div>
+
+        <!-- Add separator -->
+                <!-- -->
+    </div>
+                        </div>
+                                    </div>
+
+                <div class="l-header__col1 l-header__col l-header__logo--box">
+                    <div class="l-header__logo--cont">
+                        <div class="l-header__row">
+                            <div class="l-header__top-line--box">
+
+                                <div class="l-header__col l-header__col-icon mod--left">
+                                    <!-- only SEARCH icon -->
+                                                                            <div class="md-menu__icons mod--left md-menu__li-l1">
+                                            <!-- Если есть поиск или корзина -->
+    <div class="l-header__icons--box f__menu">
+        &nbsp; <!-- для выравнивания по вертикали (дублирует размер шрифта) -->
+
+        <div class="l-header__icons--wrap">
+            <div class="js--iconBasketWrapper" style="display: none;">
+                
+            </div>
+
+                            <div class="l-header__icon l-header__icon--search">
+                    <a class="searchform__svg js--open_searchform design_editor-icons">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.5 17.5"><ellipse class="search-svg-style" cx="5.92" cy="8.01" rx="5.17" ry="5.13"/><line class="search-svg-style" x1="9.59" y1="11.64" x2="14.75" y2="16.75"/></svg>
+                    </a>
+                </div>
+                    </div>
+
+        <!-- Add separator -->
+                <!-- -->
+    </div>
+                                        </div>
+                                                                    </div>
+
+                                <div class="l-header__col l-header__logo-col">
+                                    <div id='logoWrap' class='logo__wrap' data-lt="" >
+                                        
+<div class="logo logo-text">
+	<a href="https://www.maryglow.ru/">
+					MARY GLOW			</a>
+
+</div>
+                                    </div>
+                                </div>
+
+                                <div class="l-header__col l-header__col-icon mod--right">
+                                    <!-- only BASKET icon -->
+                                                                            <div class="js--menu-icons md-menu__icons mod--right md-menu__li-l1 shop_page" >
+                                            <!-- Если есть поиск или корзина -->
+    <div class="l-header__icons--box f__menu">
+        &nbsp; <!-- для выравнивания по вертикали (дублирует размер шрифта) -->
+
+        <div class="l-header__icons--wrap">
+            <div class="js--iconBasketWrapper" >
+                 <!-- если не только Поиск и есть Магазин -->
+                    <!-- то выводим корзину -->
+                    <div class="js--iconBasketView shop_page l-header__icon l-header__icon--cart" >
+                        <a href='/zakazat_buket/cart' class='shop-basket--box lnk-cart design_editor-icons' data-id='shop-cart-widget'>
+                            <span class='shop-basket'>
+                                                                    <!-- Basket 02 -->
+                                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.5 17.5"><path class="basket-svg-style basket-svg-edit-round" d="M5,4.48V3.42A2.69,2.69,0,0,1,7.75.75h0a2.69,2.69,0,0,1,2.72,2.67V4.48"/><path class="basket-svg-style basket-svg-edit-round" d="M13.23,16.75h-11A1.51,1.51,0,0,1,.75,15.26s0,0,0-.07l1-10.7h12l1,10.7a1.5,1.5,0,0,1-1.45,1.56Z"/><path class="basket-svg-style basket-svg-edit-round" d="M10.47,7.68h0"/><path class="basket-svg-style basket-svg-edit-round" d="M5,7.68H5"/></svg>
+
+                                                            </span>
+                            <span class='shop-cart-widget-amount'>
+                                                            </span>
+                        </a>
+                    </div>
+                
+            </div>
+
+                    </div>
+
+        <!-- Add separator -->
+                <!-- -->
+    </div>
+                                        </div>
+                                                                    </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="l-header__col2 l-header__col l-header__menu--box">
+                    <nav class='md-menu clearfix' data-menu-type="origin">
+                        			<ul class="menu md-menu__main js--menu__main is--level1  mod--menu_underline		 mod--menu_center"><li  id="2216288" data-id="2216288" class="md-menu__li-l1 menu-item js--menu__li-l1  active"><a class="md-menu__href-l1 is--link-level1 f__menu mod--href-l1__shop js--shop-categories-link height1 big-height5" data-name="МАГАЗИН" data-url="zakazat_buket" href="https://www.maryglow.ru/zakazat_buket"  >МАГАЗИН</a></li><li  id="4330808" data-id="4330808" class="md-menu__li-l1 menu-item js--menu__li-l1 "><a class="md-menu__href-l1 is--link-level1 f__menu height1 big-height5" href="https://www.maryglow.ru/vse-dlia-sada"  >ВСЁ ДЛЯ САДА</a></li><li  id="3431915" data-id="3431915" class="md-menu__li-l1 menu-item js--menu__li-l1 "><a class="md-menu__href-l1 is--link-level1 f__menu height1 big-height5" href="https://www.maryglow.ru/oformlenie-nasypnymi-svechami"  > НАСЫПНЫЕ СВЕЧИ</a></li><li  id="2561405" data-id="2561405" class="md-menu__li-l1 menu-item js--menu__li-l1 "><a class="md-menu__href-l1 is--link-level1 f__menu height1 big-height5" href="https://www.maryglow.ru/oformlenie-meroprijatij"  >КОРПОРАТИВНЫМ КЛИЕНТАМ</a></li><li  id="3843011" data-id="3843011" class="md-menu__li-l1 menu-item js--menu__li-l1 "><a class="md-menu__href-l1 is--link-level1 f__menu height1 big-height5" href="https://www.maryglow.ru/o-nas"  >О НАС</a></li><li  id="2560835" data-id="2560835" class="md-menu__li-l1 menu-item js--menu__li-l1 "><a class="md-menu__href-l1 is--link-level1 f__menu height1 big-height5" href="https://www.maryglow.ru/kontakty"  >КОНТАКТЫ </a></li><li  id="5811217" data-id="5811217" class="md-menu__li-l1 menu-item js--menu__li-l1 "><a class="md-menu__href-l1 is--link-level1 f__menu height1 big-height5" href="https://www.maryglow.ru/pravila-vozvrata"  >Правила возврата</a></li></ul><div class="md-menu-mobile__socials social-icons"><div class="social-icons-wrapper"></div></div>                    </nav>
+                </div>
+
+
+                <div class="l-header__col3 l-header__col l-header__ham--box" data-count-pages="7">
+    <div class="md-menu__hamburger js-mob-menu-open">
+        <svg height="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 17.5"><line class="hamburger-svg-style" y1="1" x2="18" y2="1"/><line class="hamburger-svg-style" y1="7" x2="18" y2="7"/><line class="hamburger-svg-style" y1="13" x2="18" y2="13"/></svg>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+
+        <!-- Mobile menu -->
+        <!-- mobile menu -->
+<div  data-menu-type="mobile" data-custom-scroll data-set-top="stay-in-window" class="custom__header-decorate-line mod--custom-scroll-hidden mod--custom-scroll-resize md-menu--mobile js--menu--mobile mod--set-top--stop-mobile">
+    <div class="md-menu--mobile__cont js--menu-mobile__cont">
+                <div class="md-menu__icons mod--right md-menu__li-l1 js--menu__li-l1">
+            <!-- Если есть поиск или корзина -->
+    <div class="l-header__icons--box f__menu">
+        &nbsp; <!-- для выравнивания по вертикали (дублирует размер шрифта) -->
+
+        <div class="l-header__icons--wrap">
+            <div class="js--iconBasketWrapper" >
+                 <!-- если не только Поиск и есть Магазин -->
+                    <!-- то выводим корзину -->
+                    <div class="js--iconBasketView shop_page l-header__icon l-header__icon--cart" >
+                        <a href='/zakazat_buket/cart' class='shop-basket--box lnk-cart design_editor-icons' data-id='shop-cart-widget'>
+                            <span class='shop-basket'>
+                                                                    <!-- Basket 02 -->
+                                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.5 17.5"><path class="basket-svg-style basket-svg-edit-round" d="M5,4.48V3.42A2.69,2.69,0,0,1,7.75.75h0a2.69,2.69,0,0,1,2.72,2.67V4.48"/><path class="basket-svg-style basket-svg-edit-round" d="M13.23,16.75h-11A1.51,1.51,0,0,1,.75,15.26s0,0,0-.07l1-10.7h12l1,10.7a1.5,1.5,0,0,1-1.45,1.56Z"/><path class="basket-svg-style basket-svg-edit-round" d="M10.47,7.68h0"/><path class="basket-svg-style basket-svg-edit-round" d="M5,7.68H5"/></svg>
+
+                                                            </span>
+                            <span class='shop-cart-widget-amount'>
+                                                            </span>
+                        </a>
+                    </div>
+                
+            </div>
+
+                            <div class="l-header__icon l-header__icon--search">
+                    <a class="searchform__svg js--open_searchform design_editor-icons">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.5 17.5"><ellipse class="search-svg-style" cx="5.92" cy="8.01" rx="5.17" ry="5.13"/><line class="search-svg-style" x1="9.59" y1="11.64" x2="14.75" y2="16.75"/></svg>
+                    </a>
+                </div>
+                    </div>
+
+        <!-- Add separator -->
+                <!-- -->
+    </div>
+        </div>
+        
+        			<ul class="menu md-menu__main js--menu__main is--level1  mod--menu_underline		 mod--menu_center"><li  id="2216288" data-id="2216288" class="md-menu__li-l1 menu-item js--menu__li-l1  active"><a class="md-menu__href-l1 is--link-level1 f__menu mod--href-l1__shop js--shop-categories-link height1 big-height5" data-name="МАГАЗИН" data-url="zakazat_buket" href="https://www.maryglow.ru/zakazat_buket"  >МАГАЗИН</a></li><li  id="4330808" data-id="4330808" class="md-menu__li-l1 menu-item js--menu__li-l1 "><a class="md-menu__href-l1 is--link-level1 f__menu height1 big-height5" href="https://www.maryglow.ru/vse-dlia-sada"  >ВСЁ ДЛЯ САДА</a></li><li  id="3431915" data-id="3431915" class="md-menu__li-l1 menu-item js--menu__li-l1 "><a class="md-menu__href-l1 is--link-level1 f__menu height1 big-height5" href="https://www.maryglow.ru/oformlenie-nasypnymi-svechami"  > НАСЫПНЫЕ СВЕЧИ</a></li><li  id="2561405" data-id="2561405" class="md-menu__li-l1 menu-item js--menu__li-l1 "><a class="md-menu__href-l1 is--link-level1 f__menu height1 big-height5" href="https://www.maryglow.ru/oformlenie-meroprijatij"  >КОРПОРАТИВНЫМ КЛИЕНТАМ</a></li><li  id="3843011" data-id="3843011" class="md-menu__li-l1 menu-item js--menu__li-l1 "><a class="md-menu__href-l1 is--link-level1 f__menu height1 big-height5" href="https://www.maryglow.ru/o-nas"  >О НАС</a></li><li  id="2560835" data-id="2560835" class="md-menu__li-l1 menu-item js--menu__li-l1 "><a class="md-menu__href-l1 is--link-level1 f__menu height1 big-height5" href="https://www.maryglow.ru/kontakty"  >КОНТАКТЫ </a></li><li  id="5811217" data-id="5811217" class="md-menu__li-l1 menu-item js--menu__li-l1 "><a class="md-menu__href-l1 is--link-level1 f__menu height1 big-height5" href="https://www.maryglow.ru/pravila-vozvrata"  >Правила возврата</a></li></ul><div class="md-menu-mobile__socials social-icons"><div class="social-icons-wrapper"></div></div>
+        <span class="js-close-mobile-menu close-mobile-menu">
+        <!--<svg width="20px" height="20px"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.39 17.5"><line class="close-menu-burger" x1="0.53" y1="2.04" x2="13.86" y2="15.37"/><line class="close-menu-burger" x1="0.53" y1="15.37" x2="13.86" y2="2.04"/></svg>-->
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"><path class="close-menu-burger" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 9.5l8-8-8 8-8-8 8 8zm0 0l8 8-8-8-8 8 8-8z"/></svg>
+        </span>
+    </div>
+</div>
+
+        <!-- Blog Slider -->
+        
+        <!-- CONTENT -->
+        <div class="l-content l-content--main  desktop ">
+            <section class="l-content--box l-content--box-shop js--box-shop shopProductPage" data-hash="shop" data-structure="">
+    <div class="container custom__content--max-width">
+        <div class="page shop-product autotest--shop-product img-zoom">
+
+        <nav class="shop-menu vertical" data-shopsort-indent>
+                <div class="md-shopsort__box de--shop-menu__li-level-1 hide">&nbsp;<!--Распорка для сортировки--></div>
+                <ul>
+            
+                                <li class="shop-menu-item  with-sub">
+                    <a class="shop-menu__href-level-1 de--shop-menu__li-level-1 f__s_category f__3" href="https://www.maryglow.ru/zakazat_buket/bukety" data-open-menu-link="1">
+                        БУКЕТЫ                    </a>
+                                            <ul class="shop-sub-menu ">
+                            
+                                                                <li class="shop-menu-item ">
+                                    <a class="shop-menu__href-level-2 de--shop-menu__li-level-2 f__s_sub-category f__3" href="https://www.maryglow.ru/zakazat_buket/bukety-5000">АВТОРСКИЙ БУКЕТ ОТ 5000</a>
+                                </li>
+                            
+                                                                <li class="shop-menu-item ">
+                                    <a class="shop-menu__href-level-2 de--shop-menu__li-level-2 f__s_sub-category f__3" href="https://www.maryglow.ru/zakazat_buket/bukety-7000">АВТОРСКИЙ БУКЕТ ОТ 7000</a>
+                                </li>
+                            
+                                                                <li class="shop-menu-item ">
+                                    <a class="shop-menu__href-level-2 de--shop-menu__li-level-2 f__s_sub-category f__3" href="https://www.maryglow.ru/zakazat_buket/avtorskij-buket-ot-10000">АВТОРСКИЙ БУКЕТ ОТ 10000</a>
+                                </li>
+                            
+                                                                <li class="shop-menu-item ">
+                                    <a class="shop-menu__href-level-2 de--shop-menu__li-level-2 f__s_sub-category f__3" href="https://www.maryglow.ru/zakazat_buket/mono-bukety">МОНОБУКЕТЫ</a>
+                                </li>
+                                                    </ul>
+                                    </li>
+
+            
+                                <li class="shop-menu-item ">
+                    <a class="shop-menu__href-level-1 de--shop-menu__li-level-1 f__s_category f__3" href="https://www.maryglow.ru/zakazat_buket/cvetochnye-komposicyi">
+                        КОРОБКИ С ЦВЕТАМИ                    </a>
+                                    </li>
+
+            
+                                <li class="shop-menu-item ">
+                    <a class="shop-menu__href-level-1 de--shop-menu__li-level-1 f__s_category f__3" href="https://www.maryglow.ru/zakazat_buket/korziny-s-tsvetami">
+                        КОРЗИНЫ С ЦВЕТАМИ                    </a>
+                                    </li>
+
+            
+                                <li class="shop-menu-item ">
+                    <a class="shop-menu__href-level-1 de--shop-menu__li-level-1 f__s_category f__3" href="https://www.maryglow.ru/zakazat_buket/tsvety-v-dom-new">
+                        ЦВЕТЫ В ДОМ                    </a>
+                                    </li>
+
+            
+                                <li class="shop-menu-item ">
+                    <a class="shop-menu__href-level-1 de--shop-menu__li-level-1 f__s_category f__3" href="https://www.maryglow.ru/zakazat_buket/novinki-ot-datskogo-brenda-meraki">
+                        НОВИНКИ ОТ ДАТСКОГО БРЕНДА MERAKI                    </a>
+                                    </li>
+
+            
+                                <li class="shop-menu-item  with-sub">
+                    <a class="shop-menu__href-level-1 de--shop-menu__li-level-1 f__s_category f__3" href="#">
+                        СВЕЧИ                    </a>
+                                            <ul class="shop-sub-menu ">
+                            
+                                                                <li class="shop-menu-item ">
+                                    <a class="shop-menu__href-level-2 de--shop-menu__li-level-2 f__s_sub-category f__3" href="https://www.maryglow.ru/zakazat_buket/klassicheskie-svechi">КЛАССИЧЕСКИЕ СВЕЧИ</a>
+                                </li>
+                            
+                                                                <li class="shop-menu-item ">
+                                    <a class="shop-menu__href-level-2 de--shop-menu__li-level-2 f__s_sub-category f__3" href="https://www.maryglow.ru/zakazat_buket/dekorativnye-svechi">ДЕКОРАТИВНЫЕ СВЕЧИ</a>
+                                </li>
+                            
+                                                                <li class="shop-menu-item ">
+                                    <a class="shop-menu__href-level-2 de--shop-menu__li-level-2 f__s_sub-category f__3" href="https://www.maryglow.ru/zakazat_buket/aroma-candles">АРОМА СВЕЧИ</a>
+                                </li>
+                            
+                                                                <li class="shop-menu-item ">
+                                    <a class="shop-menu__href-level-2 de--shop-menu__li-level-2 f__s_sub-category f__3" href="https://www.maryglow.ru/zakazat_buket/nasypnye-svechi">НАСЫПНЫЕ СВЕЧИ</a>
+                                </li>
+                            
+                                                                <li class="shop-menu-item ">
+                                    <a class="shop-menu__href-level-2 de--shop-menu__li-level-2 f__s_sub-category f__3" href="https://www.maryglow.ru/zakazat_buket/podsvechniki1">ПОДСВЕЧНИКИ И АКСЕССУАРЫ</a>
+                                </li>
+                            
+                                                                <li class="shop-menu-item ">
+                                    <a class="shop-menu__href-level-2 de--shop-menu__li-level-2 f__s_sub-category f__3" href="https://www.maryglow.ru/zakazat_buket/svechi-belg">БЕЛЬГИЙСКИЕ СВЕЧИ</a>
+                                </li>
+                            
+                                                                <li class="shop-menu-item ">
+                                    <a class="shop-menu__href-level-2 de--shop-menu__li-level-2 f__s_sub-category f__3" href="https://www.maryglow.ru/zakazat_buket/svechi">ДАТСКИЕ СВЕЧИ</a>
+                                </li>
+                                                    </ul>
+                                    </li>
+
+            
+                                <li class="shop-menu-item  with-sub">
+                    <a class="shop-menu__href-level-1 de--shop-menu__li-level-1 f__s_category f__3" href="#">
+                        ВСЁ ДЛЯ САДА                    </a>
+                                            <ul class="shop-sub-menu ">
+                            
+                                                                <li class="shop-menu-item ">
+                                    <a class="shop-menu__href-level-2 de--shop-menu__li-level-2 f__s_sub-category f__3" href="https://www.maryglow.ru/zakazat_buket/lejki">ЛЕЙКИ</a>
+                                </li>
+                            
+                                                                <li class="shop-menu-item ">
+                                    <a class="shop-menu__href-level-2 de--shop-menu__li-level-2 f__s_sub-category f__3" href="https://www.maryglow.ru/zakazat_buket/opryskivateli">ОПРЫСКИВАТЕЛИ</a>
+                                </li>
+                            
+                                                                <li class="shop-menu-item ">
+                                    <a class="shop-menu__href-level-2 de--shop-menu__li-level-2 f__s_sub-category f__3" href="https://www.maryglow.ru/zakazat_buket/korziny1">КОРЗИНЫ</a>
+                                </li>
+                            
+                                                                <li class="shop-menu-item ">
+                                    <a class="shop-menu__href-level-2 de--shop-menu__li-level-2 f__s_sub-category f__3" href="https://www.maryglow.ru/zakazat_buket/avtopoliv">АВТОПОЛИВ</a>
+                                </li>
+                            
+                                                                <li class="shop-menu-item ">
+                                    <a class="shop-menu__href-level-2 de--shop-menu__li-level-2 f__s_sub-category f__3" href="https://www.maryglow.ru/zakazat_buket/instrumenty-i-aksessuary">ИНСТРУМЕНТЫ И АКСЕССУАРЫ</a>
+                                </li>
+                            
+                                                                <li class="shop-menu-item ">
+                                    <a class="shop-menu__href-level-2 de--shop-menu__li-level-2 f__s_sub-category f__3" href="https://www.maryglow.ru/zakazat_buket/podarochnye-nabory">ПОДАРОЧНЫЕ НАБОРЫ</a>
+                                </li>
+                                                    </ul>
+                                    </li>
+
+            
+                                <li class="shop-menu-item ">
+                    <a class="shop-menu__href-level-1 de--shop-menu__li-level-1 f__s_category f__3" href="https://www.maryglow.ru/zakazat_buket/podarochnyj-sertifikat">
+                        ПОДАРОЧНЫЙ СЕРТИФИКАТ                    </a>
+                                    </li>
+
+                    </ul>
+    </nav>
+        <!-- +Content main -->
+    <div class="shop-content-main">
+        <div class="schop-content-wrapper js-shop-content-wrapper ">
+                    <!-- +Breadcrumbs -->
+            <nav class="shop-bread-crumbs autotest--shop-bread-crumbs f__s_crumbs f__3 de--shop-breadcrumbs__font-family">
+                <a href="https://www.maryglow.ru/zakazat_buket" class="de--shop-breadcrumbs__font-family">магазин</a>
+                <span class="shop-separator">&GT;</span>
+
+                
+                                <a href="https://www.maryglow.ru/zakazat_buket/suhotsvety" class="de--shop-breadcrumbs__font-family">сухоцветы</a>
+                <span class="shop-separator">&GT;</span>
+                
+                <span>композиция из сухоцветов</span>
+            </nav>
+            <!-- -Breadcrumbs -->
+        
+        
+<div class="product-gallery layout-square">
+
+    <!-- +Product image slider -->
+    <div class="product-gallery__mobile js--product-parent-block js--product-gallery__mobile
+                ">
+                    <div class="product-gallery__slider js--product-gallery__slider product-main-image" data-count-image="3">
+                                <div class="product-gallery__slider-item product-image js--product-gallery__item" data-index="0">
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw%3D%3D" alt="Композиция из сухоцветов"
+                         class="loading copy-protect active"
+                         data-index="0"
+                         data-id="53509027"
+                         data-base-path="//shop-cdn1.vigbo.tech/shops/25709/products/20360051/images/"
+                         data-file-name="4f1781edd44180f044d0f5a3a5071556.jpg"
+                         data-sizes='{"2":{"width":1024,"height":1255},"3":{"width":1836,"height":2250},"500":{"width":512,"height":627}}'
+                    data-version=""
+                    data-width="1024"
+                    data-height="1255" />
+                </div>
+                                <div class="product-gallery__slider-item product-image js--product-gallery__item" data-index="1">
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw%3D%3D" alt="Композиция из сухоцветов"
+                         class="loading copy-protect "
+                         data-index="1"
+                         data-id="53509025"
+                         data-base-path="//shop-cdn1.vigbo.tech/shops/25709/products/20360051/images/"
+                         data-file-name="26892f00e0b7d6d86a1272eef3f995ce.jpg"
+                         data-sizes='{"2":{"width":1024,"height":1253},"3":{"width":1765,"height":2159},"500":{"width":512,"height":626}}'
+                    data-version=""
+                    data-width="1024"
+                    data-height="1253" />
+                </div>
+                                <div class="product-gallery__slider-item product-image js--product-gallery__item" data-index="2">
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw%3D%3D" alt="Композиция из сухоцветов"
+                         class="loading copy-protect "
+                         data-index="2"
+                         data-id="53509030"
+                         data-base-path="//shop-cdn1.vigbo.tech/shops/25709/products/20360051/images/"
+                         data-file-name="2f9d69a0582cc660a43193f9a5a38ffb.jpg"
+                         data-sizes='{"2":{"width":1024,"height":1315},"3":{"width":1920,"height":2465},"500":{"width":512,"height":657}}'
+                    data-version=""
+                    data-width="1024"
+                    data-height="1315" />
+                </div>
+                            </div>
+
+            <div class="js--product-images product-images clearfix ">
+                                <div class="product-image-cell js--product-gallery__item active" data-index="0">
+                    <a href="#" class="product-image">
+                                                <img src="" alt="Композиция из сухоцветов" class="loading copy-protect"
+                             data-index="0"
+                             data-id="53509027"
+                             data-sizes='{"2":{"width":1024,"height":1255},"3":{"width":1836,"height":2250},"500":{"width":512,"height":627}}'
+                        data-base-path="//shop-cdn1.vigbo.tech/shops/25709/products/20360051/images/"
+                        data-file-name="4f1781edd44180f044d0f5a3a5071556.jpg"
+                        data-version=""
+                        data-width="1024"
+                        data-height="1255" />
+                    </a>
+                </div>
+                                <div class="product-image-cell js--product-gallery__item " data-index="1">
+                    <a href="#" class="product-image">
+                                                <img src="" alt="Композиция из сухоцветов" class="loading copy-protect"
+                             data-index="1"
+                             data-id="53509025"
+                             data-sizes='{"2":{"width":1024,"height":1253},"3":{"width":1765,"height":2159},"500":{"width":512,"height":626}}'
+                        data-base-path="//shop-cdn1.vigbo.tech/shops/25709/products/20360051/images/"
+                        data-file-name="26892f00e0b7d6d86a1272eef3f995ce.jpg"
+                        data-version=""
+                        data-width="1024"
+                        data-height="1253" />
+                    </a>
+                </div>
+                                <div class="product-image-cell js--product-gallery__item " data-index="2">
+                    <a href="#" class="product-image">
+                                                <img src="" alt="Композиция из сухоцветов" class="loading copy-protect"
+                             data-index="2"
+                             data-id="53509030"
+                             data-sizes='{"2":{"width":1024,"height":1315},"3":{"width":1920,"height":2465},"500":{"width":512,"height":657}}'
+                        data-base-path="//shop-cdn1.vigbo.tech/shops/25709/products/20360051/images/"
+                        data-file-name="2f9d69a0582cc660a43193f9a5a38ffb.jpg"
+                        data-version=""
+                        data-width="1024"
+                        data-height="1315" />
+                    </a>
+                </div>
+                            </div>
+
+            </div>
+    <!-- -Product image slider -->
+
+</div>
+
+<div class="shop-fsbox">
+
+
+		<div class="control close">
+			<a class="fsbox__nav fsbox__close" id="fsboxClose" href="#">
+				<svg class="fsbox__close-ico" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+					<path class="close-menu-burger de--main__text-default-color--stroke" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 9.5l8-8-8 8-8-8 8 8zm0 0l8 8-8-8-8 8 8-8z"></path>
+				</svg>
+			</a>
+		</div>
+		<div class="control prev">
+			<a class="fsbox__nav" id="fsboxPrev" href="#">
+				<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 16 27"
+					 style="overflow: hidden; position: relative;">
+					<path class="de--main__text-default-color" stroke="none"
+						  d="M140.206,1140.93L152,1151.86l-2.133,2.13L136,1141.13l0.137-.13-0.131-.14L149.869,1127l2.132,2.13Z"
+						  transform="translate(-136 -1127)"></path>
+				</svg>
+
+			</a>
+		</div>
+		<div class="control next">
+			<a class="fsbox__nav" id="fsboxNext" href="#">
+				<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 16 27"
+					 style="overflow: hidden; position: relative;">
+					<path class="de--main__text-default-color" stroke="none"
+						  d="M2815,1141.13l-13.86,12.86-2.13-2.13,11.78-10.93-11.79-11.8,2.13-2.13,13.86,13.86-0.13.14Z"
+						  transform="translate(-2799 -1127)"></path>
+				</svg>
+			</a>
+		</div>
+
+		<div class="spinner-container">
+			<div class="spinner">
+                <svg class="md-preloader" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg"><circle class="path" fill="none" stroke-width="4" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg>
+            </div>
+		</div>
+
+		<div class="shop-slides">
+                            <div class="shop-slide__block js--shop-slide__block">
+                    <img src="data:image/gif,"
+                         alt="Композиция из сухоцветов"
+                         class="loading js--copy-protect shop-slide js--shop-slide"
+                         style="display: none; opacity: 0"
+                        data-id="53509027"
+                        data-base-path="//shop-cdn1.vigbo.tech/shops/25709/products/20360051/images/"
+                        data-file-name="4f1781edd44180f044d0f5a3a5071556.jpg"
+                        data-version=""
+                        data-sizes='{"2":{"width":1024,"height":1255},"3":{"width":1836,"height":2250},"500":{"width":512,"height":627}}'
+                        data-width="1024"
+                        data-height="1255" />
+                </div>
+                            <div class="shop-slide__block js--shop-slide__block">
+                    <img src="data:image/gif,"
+                         alt="Композиция из сухоцветов"
+                         class="loading js--copy-protect shop-slide js--shop-slide"
+                         style="display: none; opacity: 0"
+                        data-id="53509025"
+                        data-base-path="//shop-cdn1.vigbo.tech/shops/25709/products/20360051/images/"
+                        data-file-name="26892f00e0b7d6d86a1272eef3f995ce.jpg"
+                        data-version=""
+                        data-sizes='{"2":{"width":1024,"height":1253},"3":{"width":1765,"height":2159},"500":{"width":512,"height":626}}'
+                        data-width="1024"
+                        data-height="1253" />
+                </div>
+                            <div class="shop-slide__block js--shop-slide__block">
+                    <img src="data:image/gif,"
+                         alt="Композиция из сухоцветов"
+                         class="loading js--copy-protect shop-slide js--shop-slide"
+                         style="display: none; opacity: 0"
+                        data-id="53509030"
+                        data-base-path="//shop-cdn1.vigbo.tech/shops/25709/products/20360051/images/"
+                        data-file-name="2f9d69a0582cc660a43193f9a5a38ffb.jpg"
+                        data-version=""
+                        data-sizes='{"2":{"width":1024,"height":1315},"3":{"width":1920,"height":2465},"500":{"width":512,"height":657}}'
+                        data-width="1024"
+                        data-height="1315" />
+                </div>
+            		</div>
+
+
+</div>
+
+<script type="text/json" id="images-sizes">
+	{"2":{"width":1024,"height":0},"3":{"width":2048,"height":0},"500":{"width":512,"height":0}}</script>
+
+        <!-- +Description product -->
+        <article class="description js-description "">
+            <h1 class="name f__s_product f__h2 f__mt-0 f__mb-0 stop-css">Композиция из сухоцветов</h1>
+
+            
+                            <!-- +Price product -->
+                <div class="price autotest--price">
+                    <span class="product-price-min autotest--product-price-min f__2 f__s_price f__2 ">7 500 pуб.</span><div class="product-price "></div>                </div>
+                <!-- -Price product -->
+            
+            <!-- +Aside product -->
+            <div class="shop-product__aside">
+
+                                    <!-- +Product params form -->
+                    <div id="product-params-form" class="product-params" data-cssvariables-styling="true">
+
+                        <div class="form-settings"
+                            data-field-type="square"
+                            data-border-type="square"
+                            data-placeholder-type="hide"
+                            data-field-between-distance="14"
+                            data-field-bg-color="rgba(255, 255, 255, 1)"
+                            data-field-border-color="rgba(140, 140, 140, 1)"
+                            data-field-border-width="1"
+                            data-field-focus-text-color="rgba(0, 0, 0, 1)"
+                            data-field-text-style="regular"
+                            data-field-font="Geometria Light"
+                            data-field-font-size="16"
+                            data-field-letter-spacing="-0.05"
+                            data-field-text-color="rgba(194, 190, 190, 1)"
+                            data-field-without-text-color="rgba(97, 97, 97, 1)"
+                            data-button-type="square-btn"
+                            data-button-distance-to-form="18"
+                            data-button-align="left"
+                            data-button-color="rgba(255, 255, 255, 0.84)"
+                            data-button-hover-color="rgba(235, 235, 235, 0.75)"
+                            data-button-border-color="rgba(140, 140, 140, 1)"
+                            data-button-border-width="1"
+                            data-button-hover-border-color="rgba(128, 128, 128, 1)"
+                            data-button-hover-border-width="1"
+                            data-button-text-color="rgba(33, 13, 13, 1)"
+                            data-button-hover-text-color="rgba(23, 10, 10, 1)"
+                            data-button-font="Geometria Light"
+                            data-button-font-size=""
+                            data-button-text-style="regular"
+                            data-button-letter-spacing="0.05"
+                            data-button-paddings="50"
+                            data-button-fullwidth="n"
+                        ></div>
+
+                                                            <div id="skuerr" class="error f__3" data-prefix="Выберите"></div>
+                        <div class="form__field-box form__btn-box js--form__btn-box ">
+                                                                                                                            <a href="https://www.maryglow.ru/zakazat_buket/product/30518096/pre_order" class="shop-button button form__btn" id="pre-order-link" data-url="https://www.maryglow.ru/zakazat_buket">
+                                        <span class="form__btn_cont f__h4-padding f__h4-margin f__h4">
+                                            Оформить заказ                                        </span>
+                                    </a>
+                                                                <input type="hidden" id="skuval" data-type="empty" value="30518096"/>
+                                                    </div>
+                    </div>
+                    <!-- -Product params form -->
+                
+                <!-- +Text product -->
+                <div class="text f__2">
+                        Каждый наш букет уникален и собирается исходя из Ваших пожеланий.&nbsp;Обратите внимание, что в составе наших букетов присутствуют сезонные цветы, поэтому состав букета зависит от наличия данных цветов в определенное время года. Если какие-то из цветов будут отсутствовать, мы предложим альтернативу равную или высшую по стоимости, чтобы сохранить стиль и цветовую гамму букета. Каждый букет мы упаковываем в красивую бумагу, добавляем изящные ленты и прикладываем открытку, в которой мы можем написать Ваши пожелания.<br />
+Главное наше преимущество - это особый подход к клиенту. Если у Вас есть особые пожелания, мы с радостью выслушаем их.<br />
+Еще одна наша особенная черта - это пунктуальность.&nbsp;Мы делаем все возможное, чтобы доставка осуществлялась в течение назначенного вами времени.                        <!-- +Text decoration -->
+                                                <!-- -Text decoration -->
+                    </div>
+                <!-- -Text product -->
+
+            </div>
+            <!-- -Aside product -->
+                            <!-- + Share btn -->
+                <!-- +Social buttons -->
+<div class="social-box clearfix">
+            <!-- +FaceBook Share -->
+        <div class="facebook">
+            <!--<div id="fb-root"></div>
+                <script>(function(d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0];
+                        if (d.getElementById(id)) return;
+                        js = d.createElement(s); js.id = id;
+                        js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1";
+                        fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));
+                </script>
+
+                <div class="fb-like"
+                        data-href="https://www.maryglow.ru/zakazat_buket/korobochka-iz-suhotsvetov-1-2-1-1"
+                        data-width="78"
+                        data-layout="button"
+                        data-show-faces="false"
+                        data-send="false">
+                </div>-->
+        </div>
+        <!-- -FaceBook Share -->
+                <!-- +VK Share -->
+        <div class="vkontakte"></div><script id="vkScript"></script>
+        <!-- -VK Share -->
+                <!-- +Pin It -->
+        <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+        <div class="printerest"></div>
+        <!-- -Pin It -->
+    
+    
+</div>
+<!-- -Social buttons -->
+<script type="text/json" data-shop-action="socialicons">
+    {"name":"\u041a\u043e\u043c\u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0438\u0437 \u0441\u0443\u0445\u043e\u0446\u0432\u0435\u0442\u043e\u0432","facebook":1,"vktext":"\u041c\u043d\u0435 \u043d\u0440\u0430\u0432\u0438\u0442\u0441\u044f","vk":1,"pinterest":1}</script>                <!-- - Share btn -->
+                    </article>
+        <!-- -Description product -->
+    </div>
+    <div class="additional_product_info text f__3">ДОСТАВКА<br />
+<br />
+Заказ букета минимум за ЧАС до доставки.<br />
+Доставка по Адмиралтейскому, Центральному и Петроградскому районам и Крестовскому острову - бесплатно.<br />
+Доставка в день заказа /срочная доставка точно ко времени - 500 р.<br />
+При заказе от 5000 руб.-бесплатно.<br />
+Ночью и ранним утром- 1000 руб.<br />
+Доставка за КАД-50 руб/км<br />
+<br />
+<br />
+<br />
+ОПЛАТА<br />
+<br />
+Картами VISA/Mastercard на сайте.<br />
+Наличными в нашей студии.<br />
+По запросу вышлем Вам ссылку по оплате через Pay Pal (комиссия +5%).<br />
+Если Вы компания вышлем счет на оплату по запросу на почту&nbsp;order@maryglow.com&nbsp;.</div>
+    <div class="clearfix"></div>
+
+    
+            <style>
+    .shop-static-grid .static-grid-item .static-grid-cell {margin: 0 0 20px 20px}    </style>
+
+    <!-- +Bind products -->
+    <div class="shop-products bind_products">
+        <article class="description bind_product">
+            <!-- <div class="cart-panel"></div> -->
+            <h3 class="name bind_product f__s_product f__h3 f__mt-0 f__mb-0 stop-css">ТАКЖЕ ВАМ МОЖЕТ ПОНРАВИТЬСЯ</h3>
+        </article>
+        <div  id="position-correct" class="shop-static-grid product-meta-bottom-center product-note-bottom products-list" data-grid-image-rate="1" data-grid-image-col="5" data-grid-item-margin="20" data-grid-image-position="outer">
+                            <div class="static-grid-item">
+                    <div class="static-grid-cell">
+                        <a href="https://www.maryglow.ru/zakazat_buket/buket-hlopok" class="product">
+                        <div class="image " data-width="612" data-height="780">
+                            <span class="spinner"></span>
+                            <img class="copy-protect" data-src="//shop-cdn1.vigbo.tech/shops/25709/products/13836761/images/2-c1d7e7649228031076079bfcc4e54cc0.jpg"  alt="Букет из хлопка" border="0" data-width="612" data-height="780"  />
+
+                                                                                            <div class="cart-btn-container">
+                                    <div class="cell bind-product">
+                                        <div class="middle">
+                                            <div class="shop-add-to-cart__catalog-btn js-shop-add-to-cart__catalog-btn " data-sku="18918128" data-shop-url="https://www.maryglow.ru/zakazat_buket"
+                                                 data-action="redirect"
+                                                 data-bg-color=""
+                                                 data-bg-color-hover="">
+                                                <!-- is basket icon -->
+    <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+        <path d="M20.4 23.6L19 25v-8c0-.5-.4-1-1-1-.5 0-1 .4-1 1v7.9l-1.3-1.3c-.4-.4-1-.4-1.4 0-.4.4-.4 1 0 1.4l3 3c.4.4 1 .4 1.4 0l3.1-3c.4-.4.4-1 0-1.4-.4-.4-1-.4-1.4 0z"/>
+        <path d="M29 9h-5V8c0-3.3-2.7-6-6-6s-6 2.7-6 6v1H7c-.5 0-1 .4-1 .9L4 30.1v.1C4 32.3 5.7 34 7.8 34h20.4c2.1-.1 3.7-1.9 3.6-4L30 9.9c0-.5-.5-.9-1-.9zM13.9 8c0-2.2 1.8-3.9 4-4 2.2 0 4 1.7 4.1 4v1h-8V8zm14.3 24H7.8c-1 0-1.8-.8-1.8-1.8L7.8 11h20.3l1.8 19.1c0 1-.7 1.8-1.7 1.9z"/>
+    </svg>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            
+                                                     </div>
+
+                                                <div class="description f__s_base f__2">
+                            <div class="cell bind-product">
+                            <!--<div class="cell bind-product">-->
+                                <div class="middle">
+
+                                    <div class="product-name">
+                                        Букет из хлопка                                    </div>
+
+                                                                        <div class="product-price">
+                                                                                <span class="product-price-min autotest--product-price-min f__2  ">3 650 pуб.</span><div class="product-price "></div>                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                                </a>
+                    </div>
+                </div>
+                                <div class="static-grid-item">
+                    <div class="static-grid-cell">
+                        <a href="https://www.maryglow.ru/zakazat_buket/korobochka-iz-suhotsvetov-1" class="product">
+                        <div class="image " data-width="1024" data-height="1239">
+                            <span class="spinner"></span>
+                            <img class="copy-protect" data-src="//shop-cdn1.vigbo.tech/shops/25709/products/19817417/images/2-34997ef79751e702217c6cabc5fb262c.jpg?version=1"  alt="сухоцветы, сухоцветы спб, композиция из сухоцветов спб" border="0" data-width="1024" data-height="1239"  />
+
+                                                                                        
+                                                     </div>
+
+                                                <div class="description f__s_base f__2">
+                            <div class="cell bind-product">
+                            <!--<div class="cell bind-product">-->
+                                <div class="middle">
+
+                                    <div class="product-name">
+                                        Композиция из сухоцветов                                    </div>
+
+                                                                        <div class="product-price">
+                                                                                <span class="product-price-min autotest--product-price-min f__2  ">5 000 pуб.</span><div class="product-price "></div>                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                                </a>
+                    </div>
+                </div>
+                                <div class="static-grid-item">
+                    <div class="static-grid-cell">
+                        <a href="https://www.maryglow.ru/zakazat_buket/korobochka-iz-suhotsvetov-1-2" class="product">
+                        <div class="image " data-width="1024" data-height="1291">
+                            <span class="spinner"></span>
+                            <img class="copy-protect" data-src="//shop-cdn1.vigbo.tech/shops/25709/products/19817428/images/2-e81659b4bac059cf9d906233d9733075.jpg?version=1"  alt="сухоцветы спб" border="0" data-width="1024" data-height="1291"  />
+
+                                                                                        
+                                                     </div>
+
+                                                <div class="description f__s_base f__2">
+                            <div class="cell bind-product">
+                            <!--<div class="cell bind-product">-->
+                                <div class="middle">
+
+                                    <div class="product-name">
+                                        Композиция из сухоцветов                                    </div>
+
+                                                                        <div class="product-price">
+                                                                                <span class="product-price-min autotest--product-price-min f__2  ">5 000 pуб.</span><div class="product-price "></div>                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                                </a>
+                    </div>
+                </div>
+                            <div class="clearfix"></div>
+        </div>
+    </div>
+    <!-- -Bind products -->
+<script type="text/json" data-shop-action="bind-products"></script>
+
+    
+            <!-- +Messages -->
+        <div class="messages hide">
+            <span id="product-out-of-stock-msg">Нет в наличии</span>
+            <span id="product-out-of-stock-error">К сожалению, данного товара нет в наличии. Добавить его в корзину невозможно.</span>
+            <span id="product-price-from-message">от</span>
+        </div>
+        <!-- -Messages -->
+
+        </div>
+    <!-- -Content main -->
+    
+</div>
+
+
+<script type="text/json" id="shop-product-images">
+    [{"alt":"\u041a\u043e\u043c\u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0438\u0437 \u0441\u0443\u0445\u043e\u0446\u0432\u0435\u0442\u043e\u0432","id":"53509027","name":"4f1781edd44180f044d0f5a3a5071556.jpg","version":null,"sizes":{"2":{"width":1024,"height":1255},"3":{"width":1836,"height":2250},"500":{"width":512,"height":627}},"linkedOptions":[]},{"alt":"\u041a\u043e\u043c\u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0438\u0437 \u0441\u0443\u0445\u043e\u0446\u0432\u0435\u0442\u043e\u0432","id":"53509025","name":"26892f00e0b7d6d86a1272eef3f995ce.jpg","version":null,"sizes":{"2":{"width":1024,"height":1253},"3":{"width":1765,"height":2159},"500":{"width":512,"height":626}},"linkedOptions":[]},{"alt":"\u041a\u043e\u043c\u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0438\u0437 \u0441\u0443\u0445\u043e\u0446\u0432\u0435\u0442\u043e\u0432","id":"53509030","name":"2f9d69a0582cc660a43193f9a5a38ffb.jpg","version":null,"sizes":{"2":{"width":1024,"height":1315},"3":{"width":1920,"height":2465},"500":{"width":512,"height":657}},"linkedOptions":[]}]</script>
+
+
+<script type="text/json" data-shop-action="product-details">
+{
+    "el": ".shop-product",
+    "modalWindow": ".popup__overlay",
+    "messages": {
+        "requiredError": "Это поле обязательно для заполнения",
+        "textInStok": "<span class='form__btn_cont f__h4-padding f__h4-margin f__h4'>Добавить в корзину</span>",
+        "textOutOfStok": "<span class='form__btn_cont f__h4-padding f__h4-margin f__h4'>Нет в наличии</span>",
+        "textPreOrder": "<span class='form__btn_cont f__h4-padding f__h4-margin f__h4'>Оформить заказ</span>",
+        "vendorCode": "Артикул"
+    },
+    "shopUrl": "https://www.maryglow.ru/zakazat_buket",
+    "preOrder": 1,
+    "discounts": [],
+    "skus": [{"product_id":"20360051","id":"30518096","vendor_code":"15942896024346","options":null,"price":"<span class=\"product-price-min autotest--product-price-min f__2\">7 500 p\u0443\u0431.<\/span>","price_with_discount":"0.00","amount":"0","update_stock":"1","name":"\u041a\u043e\u043c\u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0438\u0437 \u0441\u0443\u0445\u043e\u0446\u0432\u0435\u0442\u043e\u0432","options-v2":null,"priceWithDiscount":"0.00","priceOrigin":"7500.00"}]}
+</script>
+<script type="text/json" data-shop-action="product-detatils-categories"></script>
+
+            <style>
+            .zoomContainer {
+                                    /*background-color: #f3f3f3 !important;*/
+                            }
+        </style>
+    
+<style>
+    .desktop section[data-hash="shop"] ~ footer {opacity: 1;}
+</style>
+<script type="text/json" id="shop-type" data-type="products">[[{"product_id":"20360051","id":"30518096","vendor_code":"15942896024346","options":null,"price":"<span class=\"product-price-min autotest--product-price-min f__2\">7 500 p\u0443\u0431.<\/span>","price_with_discount":"0.00","amount":"0","update_stock":"1","name":"\u041a\u043e\u043c\u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0438\u0437 \u0441\u0443\u0445\u043e\u0446\u0432\u0435\u0442\u043e\u0432","options-v2":null,"priceWithDiscount":"0.00","priceOrigin":"7500.00"}],"y"]</script>
+
+    <script type="text/javascript">
+        function tracking_cart(){
+            window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+'event': 'AddToCart'
+});
+ym(40221689, 'reachGoal', 'addCart');        };
+    </script>
+
+<![CDATA[YII-BLOCK-BODY-END]]>    </div>
+</section>
+
+        </div>
+        <footer class="l-footer ">
+		<a name="footer"></a>
+	<div class='md-btn-go-up js-scroll-top'>
+		<svg width="6px" height="11px" viewBox="0 0 7 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+				<g class='md-btn-go-up-svg-color' transform="translate(-1116.000000, -716.000000)" fill="#ffffff">
+					<polygon transform="translate(1119.115116, 721.500000) scale(1, -1) translate(-1119.115116, -721.500000) " points="1116.92791 716 1116 716.9625 1119.71163 720.8125 1120.23023 721.5 1119.71163 722.1875 1116 726.0375 1116.92791 727 1122.23023 721.5"></polygon>
+				</g>
+			</g>
+		</svg>
+	</div>
+	<div class="l-content l-content--footer desktop">
+	<section id="blog2" class="l-content--box blog composite" data-structure="blog-dispatcher">
+		<div class="composite-content blog-content sidebar-position-none blog-type-post" data-backbone-view="blog-post" data-protect-image="">
+			<div class=" blog-content-box">
+				<div class="items">
+					<article class="post footer-post" id="post_">
+						<div id="post-content" style="max-width: 100%;">
+							<div class="post-body" data-structure="footer">
+							<div class="post-body">
+	<style type="text/css">.adaptive-desktop #section2430113_0 .section__content{min-height:10px;}footer .md-section, footer .copyright #gpwCC, footer .copyright a#gpwCC{color:#c7c3c3;}footer.l-footer .section__bg{background-color:#4a4a4a;}footer.l-footer .copyright{background-color:#4a4a4a;}.adaptive-mobile .l-footer, .adaptive-mobile .l-footer p, .adaptive-mobile .copyright__gophotoweb--box{text-align:center !important;}footer.l-footer .copyright__gophotoweb--box{text-align:center;}</style><a id="section5de690bba481b" class="js--anchor" name="section5de690bba481b"></a><div class="md-section js--section" id="section2430113_0">
+        
+    <div class="section__bg"  ></div>
+			<div class="section__content">
+				<div class="container custom__content--max-width"><div class="row"><div class="col col-md-6"><div class="widget"
+	 id="widget_56650957"
+	 data-id="56650957"
+	 data-type="post-menu">
+
+    <div class="element widget-post-menu" id="w_56650957">
+
+	<style>
+
+		
+		#w_56650957 .footer-menu {
+			text-align: center;
+			padding: 0;
+			margin-top: 0;
+					}
+
+		.adaptive-desktop #w_56650957 .footer-menu li {
+							margin: 10px 0;
+					}
+
+		.adaptive-mobile #w_56650957 .footer-menu li,
+		.adaptive-tablet #w_56650957 .footer-menu li {
+			margin: 10px 0;
+			text-align: center;
+		}
+
+		#w_56650957 .footer-menu a {
+			color: #ffffff;
+			margin-right: -0em;
+					font-family: Geometria Light;
+			font-size: 16px;
+							font-style: regular;
+						letter-spacing: 0em;
+				}
+
+				#w_56650957 .footer-menu li {
+			font-size: 16px;
+		}
+		
+		#w_56650957 .footer-menu a:hover {
+			color: #000000;
+		}
+
+		#w_56650957 .footer-menu li:first-child {
+			margin-top: 0;
+		}
+		#w_56650957 .footer-menu li:last-child {
+			margin-bottom: 0;
+		}
+		#w_56650957 .footer-menu li {
+			list-style-type: none;
+		}
+	</style>
+
+	
+	<ul class="widget-content post-menu-content footer-menu  ">
+					<li>
+				<a href="https://www.maryglow.ru" >Главная</a>
+			</li>
+			</ul>
+
+</div>
+</div>
+<div class="widget"
+	 id="widget_56651539"
+	 data-id="56651539"
+	 data-type="post-menu">
+
+    <div class="element widget-post-menu" id="w_56651539">
+
+	<style>
+
+		
+		#w_56651539 .footer-menu {
+			text-align: center;
+			padding: 0;
+			margin-top: 0;
+					}
+
+		.adaptive-desktop #w_56651539 .footer-menu li {
+							margin: 10px 0;
+					}
+
+		.adaptive-mobile #w_56651539 .footer-menu li,
+		.adaptive-tablet #w_56651539 .footer-menu li {
+			margin: 10px 0;
+			text-align: center;
+		}
+
+		#w_56651539 .footer-menu a {
+			color: #ffffff;
+			margin-right: -0em;
+					font-family: Geometria Light;
+			font-size: 16px;
+							font-style: regular;
+						letter-spacing: 0em;
+				}
+
+				#w_56651539 .footer-menu li {
+			font-size: 16px;
+		}
+		
+		#w_56651539 .footer-menu a:hover {
+			color: #000000;
+		}
+
+		#w_56651539 .footer-menu li:first-child {
+			margin-top: 0;
+		}
+		#w_56651539 .footer-menu li:last-child {
+			margin-bottom: 0;
+		}
+		#w_56651539 .footer-menu li {
+			list-style-type: none;
+		}
+	</style>
+
+	
+	<ul class="widget-content post-menu-content footer-menu  ">
+					<li>
+				<a href="/oformlenie-meroprijatij" >Корпоративным клиентам</a>
+			</li>
+					<li>
+				<a href="/o-nas" >О нас</a>
+			</li>
+					<li>
+				<a href="/kontakty" >Контакты</a>
+			</li>
+					<li>
+				<a href="/dostavka" >Доставка</a>
+			</li>
+			</ul>
+
+</div>
+</div>
+</div><div class="col col-md-6"><div class="widget"
+	 id="widget_41548346"
+	 data-id="41548346"
+	 data-type="simple-text">
+
+    
+<div class="element simple-text transparentbg" id="w_41548346" style="background-color: transparent; ">
+    <div class="text-box text-box-test1  nocolumns" style="max-width: 100%; -moz-column-gap: 10px; -webkit-column-gap: 10px; column-gap: 10px; letter-spacing: 0.1em; line-height: 1.6; font-family: 'Arial'; font-size: 14px !important;  margin: 0 auto; ">
+        <p style="text-align: center;"><font face="arial, helvetica, sans-serif"><b><span style="font-family:geometria light;"><span style="font-size:15px;">СВЯЗАТЬСЯ С НАМИ</span></span></b></font></p>
+        
+    </div>
+</div></div>
+<div class="widget"
+	 id="widget_41549291"
+	 data-id="41549291"
+	 data-type="simple-text">
+
+    
+<div class="element simple-text transparentbg" id="w_41549291" style="background-color: transparent; ">
+    <div class="text-box text-box-test1  nocolumns" style="max-width: 100%; -moz-column-gap: 10px; -webkit-column-gap: 10px; column-gap: 10px; letter-spacing: 0em; line-height: 1.3; font-family: 'Arial'; font-size: 16px !important;  margin: 0 auto; ">
+        <p style="text-align: center;"><span style="font-family:geometria light;"><span style="font-size:15px;">&nbsp;Санкт-Петербург, 191187,&nbsp;ул. Гагаринская 19</span></span></p>
+
+<p style="text-align: center;"><span style="font-size:15px;"><span style="font-family:geometria light;">&nbsp; <span style="color:#FFFFFF;">Ссылка на карту:</span></span></span></p>
+
+<p style="text-align: center;"><span style="font-size:15px;"><span style="font-family:geometria light;"><span style="color: rgb(0, 0, 0); letter-spacing: 0em; background-color: transparent;">&nbsp;</span><a href="https://goo.gl/maps/aEvD3Wbqn5U2" style="letter-spacing: 0em;"><span style="color:#FFFFFF;">https://goo.gl/maps/aEvD3Wbqn5U2</span></a></span></span></p>
+
+<p style="text-align: center;"><span style="font-size:15px;"><span style="font-family:geometria light;"><span style="color:#FFFFFF;"><span style="background-color: transparent; letter-spacing: 0em; text-align: right;">&nbsp; &nbsp;&nbsp;</span></span></span></span></p>
+
+<p>&nbsp;</p>
+
+<p style="text-align: center;"><span style="font-size:15px;"><span style="font-family:geometria light;"><span style="color:#FFFFFF;">i</span><a href="mailto:info@maryglow.com"><span style="color:#FFFFFF;">nfo@maryglow.com</span></a></span></span></p>
+
+<p style="text-align: center;"><span style="font-size:15px;"><span style="font-family:geometria light;"><span style="color:#FFFFFF;">Студия&nbsp;<a href="tel:+79052093691">tel:+79052093691</a></span></span></span></p>
+
+<p style="text-align: center;"><font color="#ffffff" face="geometria light"><span style="font-size: 15px;">&nbsp; &nbsp; WhatsApp <a href="http://wa.me/79052093691">+79052093691</a></span></font></p>
+        
+    </div>
+</div></div>
+</div><div class="col col-md-6"><div class="widget"
+	 id="widget_41548322"
+	 data-id="41548322"
+	 data-type="simple-text">
+
+    
+<div class="element simple-text transparentbg" id="w_41548322" style="background-color: transparent; ">
+    <div class="text-box text-box-test1  nocolumns" style="max-width: 100%; -moz-column-gap: 10px; -webkit-column-gap: 10px; column-gap: 10px; letter-spacing: 0.15em; line-height: 2.4; font-family: 'Arial'; font-size: 11px !important;  margin: 0 auto; ">
+        <p style="text-align: center;"><span style="font-size:15px;"><span style="font-family:geometria light;"><strong>РЕЖИМ РАБОТЫ</strong></span></span></p>
+        
+    </div>
+</div></div>
+<div class="widget"
+	 id="widget_41548316"
+	 data-id="41548316"
+	 data-type="simple-text">
+
+    
+<div class="element simple-text transparentbg" id="w_41548316" style="background-color: transparent; ">
+    <div class="text-box text-box-test1  nocolumns" style="max-width: 100%; -moz-column-gap: 10px; -webkit-column-gap: 10px; column-gap: 10px; letter-spacing: 0.05em; line-height: 1.3; font-family: 'Arial'; font-size: 14px !important;  margin: 0 auto; ">
+        <p style="text-align: center;"><span style="font-size:15px;"><span style="font-family:geometria light;">ежедневно</span></span></p>
+
+<p style="text-align: center;"><span style="font-size:15px;"><span style="font-family:geometria light;"><span style="color:#FFFFFF;">&nbsp;9.00-21.00</span></span></span></p>
+        
+    </div>
+</div></div>
+</div><div class="col col-md-6"><div class="widget"
+	 id="widget_41548307"
+	 data-id="41548307"
+	 data-type="simple-text">
+
+    
+<div class="element simple-text transparentbg" id="w_41548307" style="background-color: transparent; ">
+    <div class="text-box text-box-test1  nocolumns" style="max-width: 100%; -moz-column-gap: 10px; -webkit-column-gap: 10px; column-gap: 10px; letter-spacing: 0.15em; line-height: 2.4; font-family: 'Arial'; font-size: 11px !important;  margin: 0 auto; ">
+        <p style="text-align: center;"><span style="font-size:15px;"><span style="font-family:geometria light;">МЫ В СОЦИАЛЬНЫХ СЕТЯХ</span></span></p>
+        
+    </div>
+</div></div>
+<div class="widget"
+	 id="widget_41548319"
+	 data-id="41548319"
+	 data-type="social-icons">
+
+    <div class="element widget-social-icons" id="w_41548319">
+	<style>
+				#w_41548319 .asi-icon-box { margin: 14px 7px 0 7px; }
+		#w_41548319 .social-icons-content {margin: -14px -7px 0;}
+							   #w_41548319 .asi-icon-box i { color: #a9a9a9; }
+				#w_41548319 .asi-icon-box a:hover i { color: #696969; }
+				#w_41548319 .asi-icon-box  a,
+							   #w_41548319 .asi-icon-box  i {
+														  font-size: 24px;
+														  line-height: 24px;
+													  }
+	</style>
+
+	<div class="widget-content social-icons-content center">
+				<div class="asi-icon-box">
+			<a href="https://www.instagram.com/maryglow_studio/" target="_blank" rel="noopener">
+				<i class="widget-social-icon-instagram-circle"></i>
+			</a>
+		</div>
+				<div class="asi-icon-box">
+			<a href="https://www.facebook.com/maryglowstudio/" target="_blank" rel="noopener">
+				<i class="widget-social-icon-facebook-circle"></i>
+			</a>
+		</div>
+				<div class="asi-icon-box">
+			<a href="https://vk.com/maryglow" target="_blank" rel="noopener">
+				<i class="widget-social-icon-vkontakte-circle"></i>
+			</a>
+		</div>
+				<div class="asi-icon-box">
+			<a href="https://www.youtube.com/channel/UCR6rlbokGcnaPjiJmz0aGIw" target="_blank" rel="noopener">
+				<i class="widget-social-icon-youtube-circle"></i>
+			</a>
+		</div>
+				<div class="asi-icon-box">
+			<a href="https://twitter.com/MARYGLOW6" target="_blank" rel="noopener">
+				<i class="widget-social-icon-twitter-circle"></i>
+			</a>
+		</div>
+			</div>
+
+</div></div>
+</div></div></div></div></div></div>
+							</div>
+						</div>
+					</article>
+				</div>
+			</div>
+		</div>
+	</section>
+	</div>
+
+	<div class="copyright ">
+		<div class="copyright__gophotoweb--box">
+			<div class="md-section js--section">
+				<div class="section__content">
+				<div class="container custom__content--max-width">
+										<div class="share-box">
+						<!-- GetButton.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "+7905209-36-91", // WhatsApp number
+            call: "+7-905-209-36-91", // Call phone number
+            call_to_action: "Связаться с нами", // Call to action
+            button_color: "#129BF4", // Color of button
+            position: "left", // Position may be 'right' or 'left'
+            order: "whatsapp,call", // Order of buttons
+        };
+        var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /GetButton.io widget -->
+<meta name="google-site-verification" content="H8y5K0R_2RTfy6yYvTEAXrAJSqBmPkrN-ehaOWclN80" />
+					</div>
+										<div class="row">
+						<div class="col col-md-24">
+															<a id='gpwCC' href="https://vigbo.com/?utm_source=maryglow.ru&utm_medium=footer&utm_campaign=copyright" target="_blank" rel="noopener noreferrer">сайт от vigbo</a>
+													</div>
+					</div>
+				</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+</footer>
+
+<!-- Search -->
+	
+<div class="searchform js--searchform mod--custom-scroll-hidden" data-custom-scroll> <!-- is- -active, is- -fixed -->
+    <form>
+        <div class="searchform__header">
+            <div class="searchform__close-block">
+                <div class="searchform__close js--searchform_close design_editor-icons__noresize">
+                    <svg class="searchform__close-ico" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"><path class="close-menu-burger de--search__search-icons--stroke" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 9.5l8-8-8 8-8-8 8 8zm0 0l8 8-8-8-8 8 8-8z"/></svg>
+                </div>
+            </div>
+            <div class="searchform__tbl">
+                <div class="searchform__tbl__in">
+                    <div class="container">
+                        <div class="searchform__push-input">
+                            <input class="searchform__input js--searchform_input placeholder-default f__2" maxlength="100" autocomplete="off" type="text" name="searchform" placeholder="Что будем искать?">
+                            <span class="searchform__push searchform__svg js--searchform_push design_editor-icons__noresize">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.5 17.5"><ellipse class="search-svg-style de--search__search-icons--stroke" cx="5.92" cy="8.01" rx="5.17" ry="5.13"/><line class="search-svg-style de--search__search-icons--stroke" x1="9.59" y1="11.64" x2="14.75" y2="16.75"/></svg>
+                            </span>
+                            <div class="searchform__before"></div>
+                            <div class="searchform__after"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="searchform__body">
+            <div class="container clearfix">
+                <div class="searchform__tabs-block">
+                    <ul class="searchform__tabs-list clearfix mod--menu_underline" data-radio-nav>
+                                                                                                                    <li>
+                                    <p class="js--sresult-count searchform__result-count active" data-search-type="shop"></p>
+                                </li>
+                                                </ul>
+                    <div class="searchform__loading-block js--loading-result-block">
+                        <div class="searchform__loading loading"><div class="searchform__dots"><span></span><span></span><span></span></div></div>
+                    </div>
+                </div>
+            </div> <!-- for each tabs active -->
+            <!-- To Top -->
+            <div class="searchresult__totop js--scroll-top">
+                <svg width="6px" height="11px" viewBox="0 0 7 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill-rule="evenodd"><g class="md-btn-go-up-svg-color" transform="translate(-1116.000000, -716.000000)" fill="#000000"><use xlink:href="#totop"/></g></g></svg>
+            </div>
+
+            <div class="searchform__body-results js--scrolling js--scrollblock">
+
+                <div class="container container_pt-0">
+                    <div class="searchresult" data-radio-cont>
+                        <div class="searchresult__item shop-products active" data-radio-el="1">
+                            <div class="searchresult__container searchresult__shop-container">
+
+                            </div>
+                            <div class="clearfix"></div>
+                            <div id="nextPageShop" class="searchform__loading js--searchform__loading">
+                                <div class="searchform__dots">
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="searchresult__item " data-radio-el="3">
+                            <div class="searchresult__container searchresult__site-container">
+
+                            </div>
+                            <div class="clearfix"></div>
+                            <div id="nextPageSite" class="searchform__loading js--searchform__loading">
+                                <div class="searchform__dots">
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </form>
+
+    <!-- SVG Icon -->
+    <svg class="delete-rule" style="display: none">
+        <defs>
+            <polygon id="searchform_close" points="15.556 0.682525239 14.849 0 7.778 6.82621777 0.707 0 0 0.682525239 7.071 7.50874301 0 14.3349608 0.707 15.017486 7.778 8.19126825 14.849 15.017486 15.556 14.3349608 8.485 7.50874301"></polygon>
+            <polygon id="totop" transform="translate(1119.115116, 721.500000) scale(1, -1) translate(-1119.115116, -721.500000) " points="1116.92791 716 1116 716.9625 1119.71163 720.8125 1120.23023 721.5 1119.71163 722.1875 1116 726.0375 1116.92791 727 1122.23023 721.5"></polygon>
+        </defs>
+        <path id="searchform_search_1px" data-name="1px" class="cls-1" d="M27.807,27.807a0.556,0.556,0,0,1-.786,0l-6.655-6.655a11.03,11.03,0,1,1,.786-0.786l6.655,6.655A0.556,0.556,0,0,1,27.807,27.807ZM13,3A10,10,0,1,0,23,13,10,10,0,0,0,13,3Z" transform="translate(-2 -2)"/>
+        <path id="searchform_search_2px" data-name="2px" class="cls-1" d="M27.713,27.713a0.993,0.993,0,0,1-1.4,0l-6.267-6.267a11.006,11.006,0,1,1,1.4-1.4l6.267,6.267A0.993,0.993,0,0,1,27.713,27.713ZM13,4a9,9,0,1,0,9,9A9,9,0,0,0,13,4Z" transform="translate(-2 -2)"/>
+        <path id="searchform_search_3px" data-name="3px" class="cls-1" d="M28.534,28.577a1.641,1.641,0,0,1-2.164,0l-5.932-6.171a12.057,12.057,0,1,1,2.054-2.083l6.043,6.286A1.3,1.3,0,0,1,28.534,28.577ZM13,4a9,9,0,1,0,9,9A9,9,0,0,0,13,4Z" transform="translate(-1 -1)"/>
+    </svg>
+</div>
+
+<style>
+    .searchform .shop-static-grid .static-grid-item .static-grid-cell {margin: 0 0 25px 25px}
+</style>
+
+<style>
+    
+    #product-label-search-id19205 {
+                    top: 10px;
+            right: 14px;
+                                
+        font-family: 'Arimo' !important;
+
+                    padding-right: 5px;
+            padding-left: 5px;
+            letter-spacing: 0.3em;
+            max-width: calc(100% - 28px);
+            font-size: 10px;
+            background-color: rgba(255, 255, 255, 1);
+            color: rgba(0, 0, 0, 1);
+            font-weight: normal;
+                            border: 1px rgba(255, 255, 255, 1) solid;
+                        }
+
+                        #product-label-search-id19205 .product-label-content {
+                padding-top: 6px;
+                padding-bottom: 6px;
+            }
+                            #product-label-search-id19205 .product-label-content {
+                margin-right: -0.3em;
+            }
+            
+        
+    
+    #product-label-search-id21879 {
+                                    top: 10px;
+            left: 10px;
+            right: auto;
+                
+        font-family: 'Arimo' !important;
+
+                    padding-right: 5px;
+            padding-left: 5px;
+            letter-spacing: 0.3em;
+            max-width: calc(100% - 20px);
+            font-size: 16px;
+            background-color: rgba(235, 202, 203, 1);
+            color: rgba(0, 0, 0, 1);
+            font-weight: normal;
+                            border: 1px rgba(255, 255, 255, 1) solid;
+                        }
+
+                                #product-label-search-id21879 .product-label-content {
+                margin-right: -0.3em;
+            }
+            
+        
+    
+    #product-label-search-id22095 {
+                                            bottom: 10px;
+            left: 9px;
+            top: auto;
+            right: auto;
+        
+        font-family: 'Arimo' !important;
+
+                    padding-right: 19px;
+            padding-left: 19px;
+            letter-spacing: 0.3em;
+            max-width: calc(100% - 18px);
+            font-size: 10px;
+            background-color: rgba(255, 255, 255, 1);
+            color: rgba(35, 61, 8, 1);
+            font-weight: normal;
+                            border: 1px rgba(255, 255, 255, 1) solid;
+                        }
+
+                        #product-label-search-id22095 .product-label-content {
+                padding-top: 3px;
+                padding-bottom: 3px;
+            }
+                            #product-label-search-id22095 .product-label-content {
+                margin-right: -0.3em;
+            }
+            
+        
+    
+    #product-label-search-id22106 {
+                                    top: 10px;
+            left: 10px;
+            right: auto;
+                
+        font-family: 'Arimo' !important;
+
+                    padding-right: 5px;
+            padding-left: 5px;
+            letter-spacing: 0.3em;
+            max-width: calc(100% - 20px);
+            font-size: 12px;
+            background-color: rgba(245, 196, 212, 0.55);
+            color: rgba(0, 0, 0, 1);
+            font-weight: normal;
+                            border: 1px rgba(255, 255, 255, 1) solid;
+                        }
+
+                        #product-label-search-id22106 .product-label-content {
+                padding-top: 5px;
+                padding-bottom: 5px;
+            }
+                            #product-label-search-id22106 .product-label-content {
+                margin-right: -0.3em;
+            }
+            
+        
+    </style>
+
+<!-- SVG icons -->
+<script id="svg-tmpl-basket-1" type="text/template">
+    <!-- Basket 01 -->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.57 17.5"><path class="basket-svg-style basket-svg-edit-round basket-svg-edit-limit" d="M4.58,7.15V3.42A2.69,2.69,0,0,1,7.29.75h0A2.69,2.69,0,0,1,10,3.42V7.15"/><polygon class="basket-svg-style basket-svg-edit-limit" points="13.79 16.75 0.79 16.75 1.33 5.02 13.24 5.02 13.79 16.75"/></svg>
+
+</script>
+
+<script id="svg-tmpl-basket-2" type="text/template">
+    <!-- Basket 02 -->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.5 17.5"><path class="basket-svg-style basket-svg-edit-round" d="M5,4.48V3.42A2.69,2.69,0,0,1,7.75.75h0a2.69,2.69,0,0,1,2.72,2.67V4.48"/><path class="basket-svg-style basket-svg-edit-round" d="M13.23,16.75h-11A1.51,1.51,0,0,1,.75,15.26s0,0,0-.07l1-10.7h12l1,10.7a1.5,1.5,0,0,1-1.45,1.56Z"/><path class="basket-svg-style basket-svg-edit-round" d="M10.47,7.68h0"/><path class="basket-svg-style basket-svg-edit-round" d="M5,7.68H5"/></svg>
+
+</script>
+
+<script id="svg-tmpl-basket-3" type="text/template">
+    <!-- Basket 03 -->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.5 17.5"><path class="basket-svg-style basket-svg-edit-round" d="M14.14,6.17H2.36S.75,12,.75,13.58A3.19,3.19,0,0,0,4,16.75h8.57a3.19,3.19,0,0,0,3.21-3.17C15.75,12,14.14,6.17,14.14,6.17Z"/><path class="basket-svg-style basket-svg-edit-limit" d="M4.5,5.64C4.5,3,5.59.75,8.25.75S12,3,12,5.64"/></svg>
+
+</script>
+
+<script id="svg-tmpl-basket-4" type="text/template">
+    <!-- Basket 04 -->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.5 17.5"><polyline class="basket-svg-style basket-svg-edit-round" points="1.97 7.15 3.75 16.11 15.75 16.11 17.55 7.15"/><line class="basket-svg-style basket-svg-edit-round basket-svg-edit-limit" x1="7.95" y1="1.17" x2="3.11" y2="6.61"/><line class="basket-svg-style basket-svg-edit-round basket-svg-edit-limit" x1="11.55" y1="1.17" x2="16.41" y2="6.61"/><line class="basket-svg-style basket-svg-edit-round" x1="0.75" y1="6.61" x2="18.75" y2="6.61"/></svg>
+
+</script>
+
+<script id="svg-tmpl-basket-5" type="text/template">
+    <!-- Basket 05 -->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.5 17.5"><polyline class="basket-svg-style basket-svg-edit-round" points="0.75 1.63 3.13 1.63 5.51 12.59 15.95 12.59 17.75 4.63 4.3 4.63"/><ellipse class="basket-svg-style basket-svg-edit-limit" cx="6.64" cy="15.42" rx="1.36" ry="1.33"/><ellipse class="basket-svg-style basket-svg-edit-limit" cx="14.59" cy="15.42" rx="1.36" ry="1.33"/></svg>
+
+</script>
+        <!-- //// end //// -->
+
+    </div>
+
+        <script src="https://static-cdn0-1.vigbo.tech/build/kevin2/site/prod/js/site.js?ver=8BM27G"></script>
+    <script src='//shop-cdn0.vigbo.tech/vigbo-cms/scripts/prod/shop.js?v=8UwqA3'></script>
+
+        <script>
+        <!-- change icon shop cart on page product -->
+        var jst_default_basket = 1;
+            var jst_default = 1;
+    </script>
+    <div class="global-site-info" data-info='{
+        "site_name" : "casey",
+        "lang" : "ru",
+        "logo" : "text",
+        "menu_layout" : "logo-top--icons-left-n-right",
+        "menu_transparent" : "",
+        "menu_decoration_line" : "",
+        "menu_move_effect" : "load-on-scroll",
+        "menu_load_effect" : "1",
+        "menu_align_content__old" : "",
+        "menu_align_content" : "y",
+        "menu_after_slider" : "",
+        "infoline_cross" : "true",
+        "protect_images" : "y",
+        "mobile" : "",
+        "tablet" : "",
+        "structure_type" : "",
+        "is_shop_page" : "1",
+        "img_load_effect" : "cascade",
+        "is_page_blog_post" : "",
+        "static_path" : "static-cdn4.vigbo.tech",
+        "repo" : "build",
+        "server" : "thor",
+        "uid" : "u19344",
+        "bid" : "24275",
+        "sid" : "25709",
+        "ns" : "",
+        "tariff" : "",
+        "tariff_n" : "",
+        "minicart": ""
+    }'>
+    </div>
+
+             <!-- +React scripts -->
+        <div id="checkout-modal-root" data-cssvariables-styling="true"></div>
+        <div id="minicart-root" data-cssvariables-styling="true"></div>
+        <script src="https://static-cdn0-1.vigbo.tech/build/kevin2/site/prod/js/runtime-main.js?ver=8BM27G"></script>
+        <script src="https://static-cdn0-1.vigbo.tech/build/kevin2/site/prod/js/main.chunk.js?ver=8BM27G"></script>
+        <!-- -React scripts -->
+    </body>
+</html>
